@@ -133,3 +133,7 @@ For \*nix users - update you bash and awk to any modern version
 
 Tune any automation to invocate **git-sync** periodically - crons, schedulers, Jenkins, GitLab-CI, etc.
 
+
+![image](https://user-images.githubusercontent.com/85764689/203236305-e9b04e5a-e833-48a9-a438-5f9a137d8f78.png)
+
+
