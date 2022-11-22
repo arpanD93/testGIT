@@ -136,4 +136,6 @@ Tune any automation to invocate **git-sync** periodically - crons, schedulers, J
 
 ![image](https://user-images.githubusercontent.com/85764689/203236305-e9b04e5a-e833-48a9-a438-5f9a137d8f78.png)
 
+![image](https://user-images.githubusercontent.com/85764689/203278416-def605f0-c1a8-4d71-85f9-3dee03b5ce8a.png)
+
 
